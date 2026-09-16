@@ -24,29 +24,13 @@ I ship cross-platform web and mobile products for schools, disaster response, an
 
 ---
 
-## Experience
+## Featured projects
 
-| Role | Org | When |
+| Project | What it is | Links |
 | --- | --- | --- |
-| **Full-Stack Developer** | Self-Employed · Mati City | Jan 2024 – Present |
-| **Web Developer Intern** | Illumedia Outsourcing Inc. · Davao City | Mar 2026 – Jun 2026 |
-| **MIS Intern** | Management Information System (MIS) – DOrSU · Mati City | Feb 2026 – Mar 2026 |
-
-**Self-employed** — end-to-end product delivery (design → deploy), scalable backends, and production hosting.
-
-**Illumedia** — responsive WordPress / Elementor sites, custom layouts, and branding assets with designers and developers.
-
-**MIS – DOrSU** — standardized 10+ institutional documents and digital records; ICT documentation and data QA.
-
----
-
-## Education
-
-**BS Information Technology** — Major in Mobile Systems Development  
-Davao Oriental State University · Mati City · 2026  
-GWA: **1.78 / 1.00**
-
-Relevant coursework: Data Structures & Algorithms, Database Systems, Software Engineering, Web Development, Mobile Development, Cloud Computing
+| **Respondr** | Cross-platform emergency coordination for PDRRMO Davao Oriental — offline-capable resource ops, live municipal maps, SitReps, and weather monitoring. | [Repo](https://github.com/Kyosue/respondr) · [Live](https://respondr-da5cb.web.app/) |
+| **TAVI** | Transport Assurance & Vehicle Identification for Mati City — passengers scan a QR on a registered Bao2 or tricycle to view a verified vehicle record. | [Live](https://tavi-beta.vercel.app) |
+| **Attendify** | Cross-platform school attendance & campus presence — QR check-in, geofencing, role-based admin, and Excel reports for 70+ sections. | [Repo](https://github.com/Kyosue/Attendify) · [Live](https://attendify-pnhs.web.app/) |
 
 ---
 
@@ -91,12 +75,18 @@ Relevant coursework: Data Structures & Algorithms, Database Systems, Software En
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=Kyosue&amp;show_icons=true&amp;theme=dark&amp;hide_border=true" alt="Kyosue GitHub stats" />
-<img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kyosue&amp;layout=compact&amp;theme=dark&amp;hide_border=true" alt="Top languages" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Kyosue&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;text_color=C9D1D9&amp;ring_color=58A6FF" alt="Kyosue GitHub stats" height="180" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kyosue&amp;layout=donut&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9" alt="Top languages" height="180" />
+    </td>
+  </tr>
+</table>
 
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Kyosue&amp;theme=dark&amp;hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Kyosue&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=58A6FF&amp;fire=F78166&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;currStreakLabel=58A6FF&amp;sideLabels=8B949E&amp;dates=8B949E" alt="GitHub streak" width="680" />
 
 </div>
 
