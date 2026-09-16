@@ -17,7 +17,7 @@ I ship cross-platform web and mobile products for schools, disaster response, an
 
 ## About me
 
-- Full-stack developer delivering **5+ web and mobile apps** with React, React Native, Node.js, PHP, Firebase, MongoDB, and MySQL
+- Full-stack developer delivering **5+ web and mobile apps** with React, Next.js, React Native, Node.js, PHP, Firebase, MongoDB, and MySQL
 - Build REST APIs, Firestore / Realtime Database backends, auth, cloud storage, and role-based access — plus geolocation, maps, and QR flows
 - Deploy to **Firebase, Vercel, Render, and Netlify** with a focus on reusable architecture and responsive UI
 - Care about field-ready systems: offline sync, disaster ops, campus attendance, and clear admin tooling
@@ -48,6 +48,7 @@ I ship cross-platform web and mobile products for schools, disaster response, an
 
 ### Frameworks & libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -75,18 +76,11 @@ I ship cross-platform web and mobile products for schools, disaster response, an
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Kyosue&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;text_color=C9D1D9&amp;ring_color=58A6FF" alt="Kyosue GitHub stats" height="180" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kyosue&amp;layout=donut&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9" alt="Top languages" height="180" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Kyosue&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F97316&amp;icon_color=F97316&amp;text_color=C9D1D9&amp;ring_color=F97316" alt="Kyosue GitHub stats" height="180" />
 
-<img src="https://streak-stats.demolab.com?user=Kyosue&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=58A6FF&amp;fire=F78166&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;currStreakLabel=58A6FF&amp;sideLabels=8B949E&amp;dates=8B949E" alt="GitHub streak" width="680" />
+<br />
+
+<img src="https://streak-stats.demolab.com?user=Kyosue&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=F97316&amp;fire=F97316&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;currStreakLabel=F97316&amp;sideLabels=8B949E&amp;dates=8B949E" alt="GitHub streak" width="495" />
 
 </div>
 
