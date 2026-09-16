@@ -1,13 +1,14 @@
 <div align="center">
 
-# Hey, I'm Reymund Abelgas
+# Hey, I'm Reymund Angelo M. Abelgas
 
-**Full Stack Developer** · Philippines
+**Full-Stack Developer** · Mati City, Davao Oriental
 
-I build cross-platform products for real institutions — schools, emergency ops, and day-to-day business tools. Most of my work sits at the intersection of **web, mobile, and offline-capable systems**.
+BS Information Technology (Mobile Systems Development) at Davao Oriental State University.
+I ship cross-platform web and mobile products for schools, disaster response, and client work — from system design through deployment.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-porfolio-five-theta.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reymundangelo@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://reymund.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reymund216@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kyosue)
 
 </div>
@@ -16,49 +17,73 @@ I build cross-platform products for real institutions — schools, emergency ops
 
 ## About me
 
-- Full stack by trade — shipping from UI to APIs to deployment
-- Comfortable across **TypeScript**, **React / React Native / Expo**, **Next.js**, and **C#**
-- Care about products that work in the field: QR flows, geofencing, offline ops, and clear admin tooling
-- Currently focused on campus systems, emergency coordination, and mobile commerce
+- Full-stack developer delivering **5+ web and mobile apps** with React, React Native, Node.js, PHP, Firebase, MongoDB, and MySQL
+- Build REST APIs, Firestore / Realtime Database backends, auth, cloud storage, and role-based access — plus geolocation, maps, and QR flows
+- Deploy to **Firebase, Vercel, Render, and Netlify** with a focus on reusable architecture and responsive UI
+- Care about field-ready systems: offline sync, disaster ops, campus attendance, and clear admin tooling
 
 ---
 
-## Featured projects
+## Experience
 
-| Project | What it is | Links |
+| Role | Org | When |
 | --- | --- | --- |
-| **Attendify** | Cross-platform attendance & campus presence for Pantukan National High School (~3,150 students). HMAC-signed QR check-in, role-based admin, geofencing, Excel reports. | [Repo](https://github.com/Kyosue/Attendify) · [Live](https://attendify-pnhs.web.app/) |
-| **Respondr** | Offline-capable emergency coordination for PDRRMO Davao Oriental — resource ops, municipal maps, SitReps, weather. | [Repo](https://github.com/Kyosue/respondr) |
-| **Vetra** | Online mobile POS for everyday sales workflows. | [Repo](https://github.com/Kyosue/vetra) · [Live](https://vetra-vert-rho.vercel.app) |
-| **Cheqr** | Expo / React Native app (TypeScript + Kotlin). | [Repo](https://github.com/Kyosue/Cheqr) |
-| **CursorUsageTray** | Windows system-tray app for Cursor Pro usage at a glance. | [Repo](https://github.com/Kyosue/CursorUsageTray) |
-| **Portfolio** | Personal site built with Next.js. | [Repo](https://github.com/Kyosue/my-portfolio) · [Live](https://my-porfolio-five-theta.vercel.app) |
+| **Full-Stack Developer** | Self-Employed · Mati City | Jan 2024 – Present |
+| **Web Developer Intern** | Illumedia Outsourcing Inc. · Davao City | Mar 2026 – Jun 2026 |
+| **MIS Intern** | Management Information System (MIS) – DOrSU · Mati City | Feb 2026 – Mar 2026 |
+
+**Self-employed** — end-to-end product delivery (design → deploy), scalable backends, and production hosting.
+
+**Illumedia** — responsive WordPress / Elementor sites, custom layouts, and branding assets with designers and developers.
+
+**MIS – DOrSU** — standardized 10+ institutional documents and digital records; ICT documentation and data QA.
+
+---
+
+## Education
+
+**BS Information Technology** — Major in Mobile Systems Development  
+Davao Oriental State University · Mati City · 2026  
+GWA: **1.78 / 1.00**
+
+Relevant coursework: Data Structures & Algorithms, Database Systems, Software Engineering, Web Development, Mobile Development, Cloud Computing
 
 ---
 
 ## Tech stack
 
 ### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Frontend & mobile
+### Frameworks & libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### Backend & cloud
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+### Databases & cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
@@ -66,12 +91,12 @@ I build cross-platform products for real institutions — schools, emergency ops
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kyosue&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="Kyosue GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyosue&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=Kyosue&amp;show_icons=true&amp;theme=dark&amp;hide_border=true" alt="Kyosue GitHub stats" />
+<img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kyosue&amp;layout=compact&amp;theme=dark&amp;hide_border=true" alt="Top languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com/?user=Kyosue&theme=transparent&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Kyosue&amp;theme=dark&amp;hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -79,11 +104,12 @@ I build cross-platform products for real institutions — schools, emergency ops
 
 ## Connect
 
-- Portfolio: [my-porfolio-five-theta.vercel.app](https://my-porfolio-five-theta.vercel.app)
-- Email: [reymundangelo@gmail.com](mailto:reymundangelo@gmail.com)
+- Portfolio: [reymund.vercel.app](https://reymund.vercel.app)
+- Email: [reymund216@gmail.com](mailto:reymund216@gmail.com)
 - GitHub: [@Kyosue](https://github.com/Kyosue)
+- Location: Mati City, Davao Oriental
 
-Open to collaboration, freelance work, and interesting full-stack problems — feel free to reach out.
+Open to collaboration, freelance work, and full-stack opportunities — feel free to reach out.
 
 ---
 
