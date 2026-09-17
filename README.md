@@ -80,7 +80,7 @@ I ship cross-platform web and mobile products for schools, disaster response, an
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=Kyosue&amp;hide_border=true&amp;background=0D1117&amp;stroke=30363D&amp;ring=F97316&amp;fire=F97316&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;currStreakLabel=F97316&amp;sideLabels=8B949E&amp;dates=8B949E" alt="GitHub streak" width="495" />
+<img src="./profile/streak.svg" alt="GitHub streak" width="495" />
 
 </div>
 
