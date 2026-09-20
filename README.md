@@ -17,10 +17,9 @@ I ship cross-platform web and mobile products for schools, disaster response, an
 
 ## About me
 
-- Full-stack developer delivering **5+ web and mobile apps** with React, Next.js, React Native, Node.js, PHP, Firebase, MongoDB, and MySQL
-- Build REST APIs, Firestore / Realtime Database backends, auth, cloud storage, and role-based access — plus geolocation, maps, and QR flows
-- Deploy to **Firebase, Vercel, Render, and Netlify** with a focus on reusable architecture and responsive UI
-- Care about field-ready systems: offline sync, disaster ops, campus attendance, and clear admin tooling
+Work spans full-stack web and mobile — React, Next.js, React Native, Node.js, PHP, and data layers with Firebase, MongoDB, and MySQL. Much of it sits at the intersection of APIs, auth, storage, maps, and QR-driven flows, shaped for real use in schools, disaster operations, and local services.
+
+Prefer systems that hold up outside a demo: clear admin tooling, thoughtful architecture, and deployments on Firebase, Vercel, Render, and Netlify when they need to stay online.
 
 ---
 
@@ -29,7 +28,7 @@ I ship cross-platform web and mobile products for schools, disaster response, an
 | Project | What it is | Links |
 | --- | --- | --- |
 | **Respondr** | Cross-platform emergency coordination for PDRRMO Davao Oriental — offline-capable resource ops, live municipal maps, SitReps, and weather monitoring. | [Repo](https://github.com/Kyosue/respondr) · [Live](https://respondr-da5cb.web.app/) |
-| **TAVI** | Transport Assurance & Vehicle Identification for Mati City — passengers scan a QR on a registered Bao2 or tricycle to view a verified vehicle record. | [Live](https://tavi-beta.vercel.app) |
+| **TAVI** | Transport Access for Vehicle Identification — passengers in Mati City scan a QR sticker to open a human-reviewed Bao-bao or tricycle record (body number, plate, route, photos) in any phone browser. No app, no account; identifies the unit, not who is driving today. | [Live](https://tavi-ph.vercel.app/) |
 | **Attendify** | Cross-platform school attendance & campus presence — QR check-in, geofencing, role-based admin, and Excel reports for 70+ sections. | [Repo](https://github.com/Kyosue/Attendify) · [Live](https://attendify-pnhs.web.app/) |
 
 ---
@@ -99,6 +98,6 @@ Open to collaboration, freelance work, and full-stack opportunities — feel fre
 
 <div align="center">
 
-*This is a special repository — its README appears on my [GitHub profile](https://github.com/Kyosue).*
+*Thanks for visiting — always happy to connect.*
 
 </div>
