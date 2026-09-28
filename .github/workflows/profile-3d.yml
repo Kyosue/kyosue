@@ -25,7 +25,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github/profile-3d-settings.json
 
-      - name: Strip pie chart, web stats, and date
+      - name: Strip pie, radar, web stats, and date
         run: |
           node <<'EOF'
           const fs = require('fs');
@@ -54,10 +54,13 @@ jobs:
 
           let svg = fs.readFileSync(src, 'utf8');
 
-          // Language pie chart lives at a fixed translate in create-svg.ts
+          // Language pie chart (fixed position in create-svg.ts)
           svg = removeBalancedGroup(svg, '<g transform="translate(40, 520)">');
 
-          // Remove footer stats group (contributions/stars/forks + date range)
+          // Radar chart (x=720,y=70 → centered at 980, 284.5)
+          svg = removeBalancedGroup(svg, '<g transform="translate(980, 284.5)">');
+
+          // Footer stats group (contributions/stars/forks + date range)
           const svgEnd = svg.lastIndexOf('</svg>');
           const lastG = svg.lastIndexOf('<g>', svgEnd);
           if (lastG >= 0) {
