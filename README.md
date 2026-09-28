@@ -81,6 +81,10 @@ Prefer systems that hold up outside a demo: clear admin tooling, thoughtful arch
 
 <img src="./profile/streak.svg" alt="GitHub streak" width="495" />
 
+<br />
+
+<img src="./profile/3d-contrib.svg" alt="GitHub 3D contribution graph" width="100%" />
+
 </div>
 
 ---
