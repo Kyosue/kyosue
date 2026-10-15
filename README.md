@@ -73,15 +73,21 @@ Prefer systems that hold up outside a demo: clear admin tooling, thoughtful arch
 
 <div align="center">
 
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Kyosue&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F97316&amp;icon_color=F97316&amp;text_color=C9D1D9&amp;ring_color=F97316" alt="Kyosue GitHub stats" height="180" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Kyosue&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;border_color=30363D&amp;title_color=F97316&amp;icon_color=F97316&amp;text_color=C9D1D9&amp;ring_color=F97316" alt="GitHub profile statistics" height="180" />
+    </td>
+    <td align="center" width="50%">
+      <img src="./profile/streak.svg" alt="GitHub contribution streak" height="180" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
-<img src="./profile/streak.svg" alt="GitHub streak" width="495" />
-
-<br />
-
-<img src="./profile/contrib.svg" alt="GitHub contribution graph" width="100%" />
+<p><strong>Contribution activity</strong></p>
+<img src="./profile/contrib.svg" alt="GitHub contribution activity by day" width="100%" />
 
 </div>
 
