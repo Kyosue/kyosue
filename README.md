@@ -35,37 +35,52 @@ Prefer systems that hold up outside a demo: clear admin tooling, thoughtful arch
 
 ## Tech stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Frameworks & libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-### Databases & cloud
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>01 · Languages</strong><br />
+      <sub>What I build with</sub><br /><br />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=111111" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&amp;logo=php&amp;logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&amp;logo=mysql&amp;logoColor=white" alt="SQL" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>02 · Frameworks</strong><br />
+      <sub>Web, mobile, and server</sub><br /><br />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&amp;logo=react&amp;logoColor=111111" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-111111?style=flat&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&amp;logo=react&amp;logoColor=111111" alt="React Native" />
+      <img src="https://img.shields.io/badge/Expo-111111?style=flat&amp;logo=expo&amp;logoColor=white" alt="Expo" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-111111?style=flat&amp;logo=express&amp;logoColor=white" alt="Express" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>03 · Data &amp; hosting</strong><br />
+      <sub>Storage, media, and deployment</sub><br /><br />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&amp;logo=firebase&amp;logoColor=111111" alt="Firebase" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Vercel-111111?style=flat&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&amp;logo=render&amp;logoColor=111111" alt="Render" />
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&amp;logo=netlify&amp;logoColor=111111" alt="Netlify" />
+      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&amp;logo=cloudinary&amp;logoColor=white" alt="Cloudinary" />
+    </td>
+    <td width="50%" valign="top">
+      <strong>04 · Tools</strong><br />
+      <sub>Workflow and design</sub><br /><br />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&amp;logo=wordpress&amp;logoColor=white" alt="WordPress" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&amp;logo=figma&amp;logoColor=white" alt="Figma" />
+    </td>
+  </tr>
+</table>
 
 ---
 
