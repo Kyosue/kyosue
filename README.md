@@ -99,11 +99,6 @@ Prefer systems that hold up outside a demo: clear admin tooling, thoughtful arch
   </tr>
 </table>
 
-<br />
-
-<p><strong>Contribution activity</strong></p>
-<img src="./profile/contrib.svg" alt="GitHub contribution activity by day" width="100%" />
-
 </div>
 
 ---
