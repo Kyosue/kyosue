@@ -110,7 +110,7 @@ Prefer systems that hold up outside a demo: clear admin tooling, thoughtful arch
 
 ## Connect
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="50%">
       <a href="https://reymund.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a><br />
