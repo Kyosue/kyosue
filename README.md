@@ -110,10 +110,28 @@ Prefer systems that hold up outside a demo: clear admin tooling, thoughtful arch
 
 ## Connect
 
-- Portfolio: [reymund.vercel.app](https://reymund.vercel.app)
-- Email: [reymund216@gmail.com](mailto:reymund216@gmail.com)
-- GitHub: [@Kyosue](https://github.com/Kyosue)
-- Location: Mati City, Davao Oriental
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://reymund.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a><br />
+      <sub>View my work</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="mailto:reymund216@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a><br />
+      <sub>reymund216@gmail.com</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Kyosue"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a><br />
+      <sub>@Kyosue</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Mati_City,_Davao_Oriental-2F6F9F?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="Location: Mati City, Davao Oriental" /><br />
+      <sub>Philippines</sub>
+    </td>
+  </tr>
+</table>
 
 Open to collaboration, freelance work, and full-stack opportunities — feel free to reach out.
 
