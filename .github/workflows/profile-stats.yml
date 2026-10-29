@@ -2,14 +2,13 @@ name: Update profile stats
 
 on:
   schedule:
-    # Runs every 2 hours to keep streak and contributions continuously updated
-    - cron: "0 */2 * * *"
+    # Daily at 00:00 Asia/Manila
+    - cron: "0 16 * * *"
   push:
     branches:
       - main
     paths:
       - ".github/workflows/profile-stats.yml"
-      - ".github/scripts/**"
   workflow_dispatch:
   repository_dispatch:
     types: [update-stats]
@@ -30,12 +29,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-
-      - name: Generate streak stats
+      - name: Generate streak stats (dark)
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
           token: ${{ secrets.STREAK_TOKEN || secrets.GITHUB_TOKEN }}
@@ -43,21 +37,23 @@ jobs:
             user=${{ github.repository_owner }}&hide_border=true&background=0D1117&stroke=30363D&ring=F97316&fire=F97316&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=F97316&sideLabels=8B949E&dates=8B949E&disable_animations=true&timezone=Asia/Manila
           path: profile/streak.svg
 
-      - name: Generate contribution graph
-        env:
-          STREAK_TOKEN: ${{ secrets.STREAK_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node .github/scripts/generate-contrib-svg.js ${{ github.repository_owner }} profile/contrib.svg
+      - name: Generate streak stats (light)
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          token: ${{ secrets.STREAK_TOKEN || secrets.GITHUB_TOKEN }}
+          options: >-
+            user=${{ github.repository_owner }}&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=C2410C&fire=C2410C&currStreakNum=24292F&sideNums=24292F&currStreakLabel=C2410C&sideLabels=57606A&dates=57606A&disable_animations=true&timezone=Asia/Manila
+          path: profile/streak-light.svg
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/streak.svg profile/contrib.svg
+          git add profile/streak.svg profile/streak-light.svg
           if git diff --staged --quiet; then
             echo "No stats changes to commit."
           else
-            git commit -m "Update profile stats (streak & contributions)"
+            git commit -m "Update profile stats (streak)"
             git pull --rebase origin main
             git push
           fi
