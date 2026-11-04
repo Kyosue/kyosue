@@ -2,8 +2,9 @@ name: Update profile stats
 
 on:
   schedule:
-    # Daily at 00:00 Asia/Manila
-    - cron: "0 16 * * *"
+    # Hourly so today's contributions reach the streak card soon after they hit the graph.
+    # Off the :00 mark because GitHub delays/drops top-of-hour schedules under load.
+    - cron: "17 * * * *"
   push:
     branches:
       - main
@@ -45,11 +46,32 @@ jobs:
             user=${{ github.repository_owner }}&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=C2410C&fire=C2410C&currStreakNum=24292F&sideNums=24292F&currStreakLabel=C2410C&sideLabels=57606A&dates=57606A&disable_animations=true&timezone=Asia/Manila
           path: profile/streak-light.svg
 
+      # Built with your own PAT (repo + read:user) so private-repo commits are counted.
+      - name: Generate stats card (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          token: ${{ secrets.STREAK_TOKEN }}
+          fail_on_error: true
+          options: >-
+            username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=C9D1D9&ring_color=F97316&disable_animations=true
+          path: profile/stats.svg
+
+      - name: Generate stats card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          token: ${{ secrets.STREAK_TOKEN }}
+          fail_on_error: true
+          options: >-
+            username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=C2410C&icon_color=C2410C&text_color=24292F&ring_color=C2410C&disable_animations=true
+          path: profile/stats-light.svg
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/streak.svg profile/streak-light.svg
+          git add profile/streak.svg profile/streak-light.svg profile/stats.svg profile/stats-light.svg
           if git diff --staged --quiet; then
             echo "No stats changes to commit."
           else

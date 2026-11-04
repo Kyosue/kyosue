@@ -49,8 +49,8 @@ School attendance and campus presence — QR check-in, geofencing, role-based ad
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Kyosue&amp;show_icons=true&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=C2410C&amp;icon_color=C2410C&amp;text_color=24292F&amp;ring_color=C2410C" />
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Kyosue&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F97316&amp;icon_color=F97316&amp;text_color=C9D1D9&amp;ring_color=F97316" alt="GitHub profile statistics" height="165" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
+    <img src="./profile/stats.svg" alt="GitHub profile statistics" height="165" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="./profile/streak-light.svg" />
