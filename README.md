@@ -19,20 +19,11 @@ I ship cross-platform web and mobile products for schools, disaster response, an
 
 ## Projects
 
-### [Respondr](https://respondr-da5cb.web.app/)
-Emergency coordination for PDRRMO Davao Oriental — offline-capable resource ops, live municipal maps, SitReps, and weather monitoring.
-
-<sub>Expo · React Native · Firebase · Leaflet</sub> · [Repo](https://github.com/Kyosue/respondr) · [Live](https://respondr-da5cb.web.app/)
-
-### [TAVI](https://tavi-ph.vercel.app/)
-Transport Access for Vehicle Identification — passengers in Mati City scan a QR sticker to open a human-reviewed Bao-bao or tricycle record (body number, plate, route, photos) in any phone browser. No app, no account.
-
-<sub>Next.js · Supabase</sub> · [Live](https://tavi-ph.vercel.app/) · <sub>source private</sub>
-
-### [Attendify](https://attendify-pnhs.web.app/)
-School attendance and campus presence — QR check-in, geofencing, role-based admin, and Excel reports for 70+ sections.
-
-<sub>Expo · React Native · Firebase · Leaflet</sub> · [Repo](https://github.com/Kyosue/Attendify) · [Live](https://attendify-pnhs.web.app/)
+| Project | Overview | Built with | Links |
+| :-- | :-- | :-- | :-- |
+| **[Respondr](https://respondr-da5cb.web.app/)**<br><sub>Disaster response · PDRRMO Davao Oriental</sub> | Emergency coordination platform with offline-capable resource operations, live municipal maps, situation reports (SitReps), and weather monitoring. | Expo · React Native<br>Firebase · Leaflet | [Live](https://respondr-da5cb.web.app/) · [Source](https://github.com/Kyosue/respondr) |
+| **[TAVI](https://tavi-ph.vercel.app/)**<br><sub>Public transport · Mati City</sub> | Transport Access for Vehicle Identification. Passengers scan a QR sticker to view a human-reviewed Bao-bao or tricycle record (body number, plate, route, photos) in any phone browser — no app, no account. | Next.js<br>Supabase | [Live](https://tavi-ph.vercel.app/) · <sub>Source private</sub> |
+| **[Attendify](https://attendify-pnhs.web.app/)**<br><sub>Education · School attendance</sub> | Attendance and campus presence system with QR check-in, geofencing, role-based administration, and Excel reporting across 70+ sections. | Expo · React Native<br>Firebase · Leaflet | [Live](https://attendify-pnhs.web.app/) · [Source](https://github.com/Kyosue/Attendify) |
 
 ---
 
