@@ -19,11 +19,60 @@ I ship cross-platform web and mobile products for schools, disaster response, an
 
 ## Projects
 
-| Project | Overview | Built with | Links |
-| :-- | :-- | :-- | :-- |
-| **[Respondr](https://respondr-da5cb.web.app/)**<br><sub>Disaster response · PDRRMO Davao Oriental</sub> | Emergency coordination platform with offline-capable resource operations, live municipal maps, situation reports (SitReps), and weather monitoring. | Expo · React Native<br>Firebase · Leaflet | [Live](https://respondr-da5cb.web.app/) · [Source](https://github.com/Kyosue/respondr) |
-| **[TAVI](https://tavi-ph.vercel.app/)**<br><sub>Public transport · Mati City</sub> | Transport Access for Vehicle Identification. Passengers scan a QR sticker to view a human-reviewed Bao-bao or tricycle record (body number, plate, route, photos) in any phone browser — no app, no account. | Next.js<br>Supabase | [Live](https://tavi-ph.vercel.app/) · <sub>Source private</sub> |
-| **[Attendify](https://attendify-pnhs.web.app/)**<br><sub>Education · School attendance</sub> | Attendance and campus presence system with QR check-in, geofencing, role-based administration, and Excel reporting across 70+ sections. | Expo · React Native<br>Firebase · Leaflet | [Live](https://attendify-pnhs.web.app/) · [Source](https://github.com/Kyosue/Attendify) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Kitra
+<sub>RENTAL SAAS · MULTI-TENANT</sub>
+
+Rental and inventory platform for equipment, event, camera, gown and vehicle shops. Online reservations, a public live-availability catalog, QR check-out and returns from a staff app with an offline queue, and a ledger-backed stock history. The database refuses double-bookings.
+
+`Next.js` `Expo` `Supabase` `Turborepo`
+
+🚧 In development · 🔒 Source private
+
+</td>
+<td width="50%" valign="top">
+
+### [Respondr](https://respondr-da5cb.web.app/)
+<sub>DISASTER RESPONSE · PDRRMO DAVAO ORIENTAL</sub>
+
+Emergency coordination platform with offline-capable resource operations, live municipal maps, situation reports (SitReps), and weather monitoring.
+
+`Expo` `React Native` `Firebase` `Leaflet`
+
+🌐 [Live](https://respondr-da5cb.web.app/) · 📂 [Source](https://github.com/Kyosue/respondr)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [TAVI](https://tavi-ph.vercel.app/)
+<sub>PUBLIC TRANSPORT · MATI CITY</sub>
+
+Transport Access for Vehicle Identification. Passengers scan a QR sticker to view a human-reviewed Bao-bao or tricycle record (body number, plate, route, photos) in any phone browser — no app, no account.
+
+`Next.js` `Supabase`
+
+🌐 [Live](https://tavi-ph.vercel.app/) · 🔒 Source private
+
+</td>
+<td width="50%" valign="top">
+
+### [Attendify](https://attendify-pnhs.web.app/)
+<sub>EDUCATION · SCHOOL ATTENDANCE</sub>
+
+Attendance and campus presence system with QR check-in, geofencing, role-based administration, and Excel reporting across 70+ sections.
+
+`Expo` `React Native` `Firebase` `Leaflet`
+
+🌐 [Live](https://attendify-pnhs.web.app/) · 📂 [Source](https://github.com/Kyosue/Attendify)
+
+</td>
+</tr>
+</table>
 
 ---
 
